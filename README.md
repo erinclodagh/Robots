@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+#Welcome to your 4H Robot Challenge Wesite
+###This is where you will find fun hints and the rules regarding this challenge!
 
-You can use the [editor on GitHub](https://github.com/erinclodagh/Robots/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##**UNDER THE SEA**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#_Can you make it to the finish line, or will you get lost amongst the sharks?_
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+![image](green%20fish.png)
+![image](red-fish-hi.png)
 
 # Header 1
 ## Header 2
