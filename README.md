@@ -9,7 +9,7 @@
 ![image](red-fish-hi.png)
 
 ### What do you need to know for this challenge?
-- Are you ready to run from the sharks?
+- Can you avoid the sharks?
 - Can you follow your colors back home?
 
 ## Here is the link to all the rules you need to know in order to play with the fish!
