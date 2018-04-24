@@ -14,5 +14,5 @@
 
 ## Here is the link to all the rules you need to know in order to play with the fish!
 
-[Link](url)
+[Link](RULES.docx)
 
