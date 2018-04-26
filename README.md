@@ -12,6 +12,9 @@
 - Can you avoid the sharks?
 - Can you follow your colors back home?
 
+## Watch the trailer to get excited for your upcoming challenge!
+[CLICK HERE TO WATCH](https://youtu.be/7uva_C8Lni8)
+
 ## Here is the link to all the rules you need to know in order to play with the fish!
 
 [Link](RULES.docx)
