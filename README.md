@@ -24,5 +24,5 @@
   
   
 ### Design Description
-  Due to the nature of this project the code cannot be posted.
+  Due to the nature of this project the code and testing cannot be posted.
 
