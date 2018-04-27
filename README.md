@@ -19,3 +19,10 @@
 
 [Link](RULES.docx)
 
+### Background Summary
+  The purpose of this project was to design a 4H robotics challenge to be hosted at the Kentucky state fair in the summer of 2018. The goal was to design a track that incorporate color sensing and distance sensing as well as line following. The robot was made from legos and the software used to code was ev3.
+  
+  
+### Design Description
+  Due to the nature of this project the code cannot be posted.
+
